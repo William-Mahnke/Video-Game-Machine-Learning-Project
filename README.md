@@ -1,6 +1,6 @@
 This repository contains the final product of my project for PSTAT131: Statistical Machine Learning. The goal of the project was to find a dataset of interest online and apply the machine larning techniques learned from the class. I sourced my dataset from Kaggle, a dataset about the sale of video games. Given the dataset contains observed variables (sales globally and across specific regions) the aim of the project was to create a variety of models to predict sales across different regions and compare their predictive accuracy. 
 
-Link to Kaggle dataset: [text](https://www.kaggle.com/datasets/gregorut/videogamesales)
+[Link to Data](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 File Contents:
 * data: contains data and codebook for the project
